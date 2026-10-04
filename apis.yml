@@ -47,7 +47,7 @@ tags:
 - Company
 - Semiconductors
 - Hardware
-- Data-Center
+- Data Center
 - Silicon
 - Qualcomm
 - Acquired
@@ -59,6 +59,7 @@ tags_raw:
 - Silicon
 - Qualcomm
 - Acquired
+- Data-Center
 apis: []
 maintainers:
 - FN: Kin Lane
